@@ -1,0 +1,10 @@
+This is the default jQuery UI theme ported to Sass.
+
+It's an attempt to have a base theme to build from that does not require ThemeRoller.
+
+Why? Basically, because however awesome ThemeRoller may be, making a custom theme by hand
+can be more powerful & flexible.
+
+Sass (from Haml) provides lots of useful things, such as constants.
+
+This is a WIP. Feel free to fork, make improvements, and send pull requests.
